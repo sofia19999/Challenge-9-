@@ -1,9 +1,9 @@
-# Love
+# New Chapter
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 
 ## Description
-good app
+a website that helps you log in your thoughts
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,22 +14,27 @@ good app
 - [Questions](#questions)
 
 ## Installation
-better faster
+yes
 
 ## Usage
-improve life
+many instructions
 
 ## License
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This project is licensed under the [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0) license.
 
 ## Contributing
-no
+yes
 
 ## Tests
-kind o
+yes
 
 ## Questions
 For any questions, please contact me with the information below:
 
-GitHub: [sofia00](https://github.com/sofia00)  
-Email: kaminski
+GitHub: [sofia](https://github.com/sofia)  
+Email: sofia
+
+
+## Link to the Video
+
+https://drive.google.com/file/d/11ibIj-wRKuUgp5mN_NyYI7E3e_VZu4ZD/view
